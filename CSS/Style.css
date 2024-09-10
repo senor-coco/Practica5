@@ -1,0 +1,26 @@
+body{
+    background-color: #0f0f1f; /* Fondo oscuro, como en las cuevas de Hollow Knight */
+    font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+    font-size: 20px; 
+    color: #e0e0e0; /* Texto claro para buen contraste con fondo oscuro */
+}
+td{
+    vertical-align: top;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: #4e9ff4; /* Azul vibrante similar al azul Hollow Knight */
+}
+div{
+    color: #e0e0e0; /* Texto en divs claro */
+    height: auto; 
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #444444; /* Bordes oscuros para contrastar con el fondo */
+    background-color: #1c1c2e; /* Color oscuro para los divs */
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5); /* Sombras más intensas para dar profundidad */
+}
