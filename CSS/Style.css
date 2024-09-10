@@ -1,20 +1,32 @@
-body{
+body {
     background-color: #0f0f1f; /* Fondo oscuro, como en las cuevas de Hollow Knight */
     font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
     font-size: 20px; 
     color: #e0e0e0; /* Texto claro para buen contraste con fondo oscuro */
 }
-td{
+
+td {
     vertical-align: top;
 }
-ul{
-    list-style-type: none;
+
+ul {
+    list-style-type: none; /* Quitar los puntos de la lista */
+    padding: 0;
+    margin: 50px 0 0 0; /* Añadir un margen superior para bajar el menú */
+    text-align: center; /* Centramos el contenido de la lista */
 }
-a{
+
+li {
+    margin: 10px 0; /* Añadir espacio entre los elementos de la lista */
+}
+
+a {
     text-decoration: none;
     color: #4e9ff4; /* Azul vibrante similar al azul Hollow Knight */
+    font-size: 18px;
 }
-div{
+
+div {
     color: #e0e0e0; /* Texto en divs claro */
     height: auto; 
     padding: 20px;
