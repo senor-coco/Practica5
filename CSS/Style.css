@@ -10,19 +10,19 @@ td {
 }
 
 ul {
-    list-style-type: none; /* Quitar los puntos de la lista */
+    list-style-type: none; 
     padding: 0;
-    margin: 50px 0 0 0; /* Añadir un margen superior para bajar el menú */
-    text-align: center; /* Centramos el contenido de la lista */
+    margin: 50px 0 0 0; /* margen superior para bajar el menú */
+    text-align: center; 
 }
 
 li {
-    margin: 10px 0; /* Añadir espacio entre los elementos de la lista */
+    margin: 10px 0; 
 }
 
 a {
     text-decoration: none;
-    color: #4e9ff4; /* Azul vibrante similar al azul Hollow Knight */
+    color: #4e9ff4; 
     font-size: 18px;
 }
 
